@@ -1,36 +1,40 @@
-# last
+# last_proj3
 
-ggggggg
+fffffffff
+
+## Project Information
+
+- **Backlog ID:** 56
+- **Submitted by:** UmerAziz95
+- **Git URL:** https://github.com/aizaztalib/last-56
+- **Status:** Pending
+- **Development Branch:** `feature/backlog-56-umeraziz95-20260314-060819`
 
 ## Project Files
 
-This repository contains the following files (Upload type: single_file):
+This repository contains the following files in branch `feature/backlog-56-umeraziz95-20260314-060819`:
 
-### 📄 Root Files
-- web.php
+### 📁 project_60_UmerAziz95__19
+- files_1773468499_0_web.php
 
-## Getting Started
+## Development Guidelines
 
-1. Clone this repository: `git clone https://github.com/aizaztalib/last-56.git`
-2. Review the backlog requirements in the description above
-3. Explore the uploaded files in the `backlog-files/` directory
-4. Start contributing!
-
-## ⏰ Deadline
-
-**Due Date:** March 31, 2026
-
-## 🪙 Reward
-
-**Coins:** 0.1 coins upon completion
+1. Clone this repository: `git clone [repository-url]`
+2. Switch to your development branch: `git checkout feature/backlog-56-umeraziz95-20260314-060819`
+3. Review the project requirements in the description above
+4. Explore the uploaded project files
+5. Follow the original project structure
+6. Test your changes before committing
+7. Push your changes to the `feature/backlog-56-umeraziz95-20260314-060819` branch
 
 ## 🤝 Contribution Guidelines
 
+- Work only in the `feature/backlog-56-umeraziz95-20260314-060819` branch
 - Follow the existing project structure
 - Write clear and descriptive commit messages
 - Test your changes before submitting
-- Create pull requests for major changes
+- Create pull requests from `feature/backlog-56-umeraziz95-20260314-060819` to `main` when ready
 
 ---
 
-*This repository was automatically created for backlog management. Total files uploaded: 1*
+*This repository was automatically created for project approval. Total files uploaded to branch `feature/backlog-56-umeraziz95-20260314-060819`: 1*
